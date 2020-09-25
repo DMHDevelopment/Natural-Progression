@@ -2,7 +2,7 @@ modLoader="javafml" #mandatory
 loaderVersion="[31,)" #mandatory (28 is current forge version)
 issueTrackerURL="https://github.com/oitsjustjose/Natural-Progression/issues"
 [[mods]]
-modId="natural-progression"
+modId="natural_progression"
 version="${version}"
 displayName="Natural Progression"
 displayURL=""
