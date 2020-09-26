@@ -2,7 +2,7 @@
     "parent": "minecraft:story/root",
     "display": {
         "icon": {
-            "item": "natural-progression:stone_pebble"
+            "item": "natural_progression:stone_pebble"
         },
         "title": {
             "translate": "advancements.story.mine_pebble.title"
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "natural-progression:stone_pebble"
+                        "item": "natural_progression:stone_pebble"
                     }
                 ]
             }
@@ -31,7 +31,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "natural-progression:andesite_pebble"
+                        "item": "natural_progression:andesite_pebble"
                     }
                 ]
             }

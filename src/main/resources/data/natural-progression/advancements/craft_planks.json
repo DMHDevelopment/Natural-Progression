@@ -1,5 +1,5 @@
 {
-    "parent": "natural-progression:craft_hatchet",
+    "parent": "natural_progression:craft_hatchet",
     "display": {
         "icon": {
             "item": "minecraft:oak_planks"

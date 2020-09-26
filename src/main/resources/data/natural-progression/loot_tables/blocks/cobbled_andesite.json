@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "natural-progression:cobbled_andesite"
+                    "name": "natural_progression:cobbled_andesite"
                 }
             ],
             "conditions": [

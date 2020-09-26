@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "natural-progression:diorite_pebble"
+                    "name": "natural_progression:diorite_pebble"
                 }
             ],
             "conditions": [

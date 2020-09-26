@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "natural-progression:cobbled_granite"
+        "item": "natural_progression:cobbled_granite"
     },
     "result": "minecraft:granite",
     "experience": 0.1,

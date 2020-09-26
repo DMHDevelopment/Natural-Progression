@@ -1,11 +1,11 @@
 {
-    "type": "natural-progression:damage_tools",
+    "type": "natural_progression:damage_tools",
     "ingredients": [
         {
             "item": "minecraft:stripped_acacia_wood"
         },
         {
-            "tag": "natural-progression:saw"
+            "tag": "natural_progression:saw"
         }
     ],
     "result": {

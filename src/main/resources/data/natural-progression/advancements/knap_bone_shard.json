@@ -1,8 +1,8 @@
 {
-    "parent": "natural-progression:get_bone",
+    "parent": "natural_progression:get_bone",
     "display": {
         "icon": {
-            "item": "natural-progression:bone_shard"
+            "item": "natural_progression:bone_shard"
         },
         "title": {
             "translate": "advancements.story.knap_bone_shard.title"
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "natural-progression:bone_shard"
+                        "item": "natural_progression:bone_shard"
                     }
                 ]
             }

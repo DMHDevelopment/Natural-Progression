@@ -6,10 +6,10 @@
     ],
     "key": {
         "P": {
-            "item": "natural-progression:diorite_pebble"
+            "item": "natural_progression:diorite_pebble"
         }
     },
     "result": {
-        "item": "natural-progression:cobbled_diorite"
+        "item": "natural_progression:cobbled_diorite"
     }
 }

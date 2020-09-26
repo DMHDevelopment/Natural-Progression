@@ -8,7 +8,7 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import com.mojang.datafixers.Dynamic;
 import com.oitsjustjose.naturalprogression.NaturalProgression;
 import com.oitsjustjose.naturalprogression.common.blocks.NaturalProgressionBlocks;
-import com.oitsjustjose.naturalprogression.common.blocks.PebbleBlock;
+import com.oitsjustjose.naturalprogression.common.blocks.TwigBlock;
 import com.oitsjustjose.naturalprogression.common.config.CommonConfig;
 import com.oitsjustjose.naturalprogression.common.utils.Utils;
 
@@ -26,7 +26,7 @@ public class TwigFeature extends Feature<NoFeatureConfig>
 {
     public TwigFeature(Function<Dynamic<?>, ? extends NoFeatureConfig> configFactoryIn)
     {
-        super(configFactoryIn, true);
+        super(configFactoryIn);
     }
 
     @Override
@@ -54,11 +54,11 @@ public class TwigFeature extends Feature<NoFeatureConfig>
                         continue;
                     }
 
-                    if (!(world.getBlockState(twigPos).getBlock() instanceof PebbleBlock))
+                    if (!(world.getBlockState(twigPos).getBlock() instanceof TwigBlock))
                     {
                         boolean isInWater = Utils.isInWater(world, twigPos);
                         BlockState stateToPlace = isInWater
-                                ? NaturalProgressionBlocks.twigs.getDefaultState().with(PebbleBlock.WATERLOGGED,
+                                ? NaturalProgressionBlocks.twigs.getDefaultState().with(TwigBlock.WATERLOGGED,
                                         Boolean.TRUE)
                                 : NaturalProgressionBlocks.twigs.getDefaultState();
 

@@ -2,7 +2,7 @@
     "parent": "minecraft:story/smelt_iron",
     "display": {
         "icon": {
-            "item": "natural-progression:improved_saw"
+            "item": "natural_progression:improved_saw"
         },
         "title": {
             "translate": "advancements.story.get_improved_saw.title"
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "natural-progression:improved_saw"
+                        "item": "natural_progression:improved_saw"
                     }
                 ]
             }

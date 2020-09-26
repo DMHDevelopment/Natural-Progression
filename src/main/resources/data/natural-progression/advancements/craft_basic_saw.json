@@ -1,8 +1,8 @@
 {
-    "parent": "natural-progression:craft_crafting_table",
+    "parent": "natural_progression:craft_crafting_table",
     "display": {
         "icon": {
-            "item": "natural-progression:basic_saw"
+            "item": "natural_progression:basic_saw"
         },
         "title": {
             "translate": "advancements.story.get_basic_saw.title"
@@ -21,7 +21,7 @@
             "conditions": {
                 "items": [
                     {
-                        "item": "natural-progression:basic_saw"
+                        "item": "natural_progression:basic_saw"
                     }
                 ]
             }

@@ -6,10 +6,10 @@
     ],
     "key": {
         "P": {
-            "item": "natural-progression:andesite_pebble"
+            "item": "natural_progression:andesite_pebble"
         }
     },
     "result": {
-        "item": "natural-progression:cobbled_andesite"
+        "item": "natural_progression:cobbled_andesite"
     }
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "natural-progression:basic_saw",
-        "natural-progression:improved_saw"
+        "natural_progression:basic_saw",
+        "natural_progression:improved_saw"
     ]
 }

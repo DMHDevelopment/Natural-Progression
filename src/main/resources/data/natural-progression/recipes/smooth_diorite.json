@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "natural-progression:cobbled_diorite"
+        "item": "natural_progression:cobbled_diorite"
     },
     "result": "minecraft:diorite",
     "experience": 0.1,

@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "natural-progression:cobbled_andesite",
-        "natural-progression:cobbled_diorite",
-        "natural-progression:cobbled_granite",
-        "natural-progression:cobbled_sandstone",
-        "natural-progression:cobbled_red_sandstone"
+        "natural_progression:cobbled_andesite",
+        "natural_progression:cobbled_diorite",
+        "natural_progression:cobbled_granite",
+        "natural_progression:cobbled_sandstone",
+        "natural_progression:cobbled_red_sandstone"
     ]
 }

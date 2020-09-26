@@ -7,13 +7,13 @@
     ],
     "key": {
         "B": {
-            "item": "natural-progression:bone_shard"
+            "item": "natural_progression:bone_shard"
         },
         "S": {
             "tag": "forge:rods/wooden"
         }
     },
     "result": {
-        "item": "natural-progression:bone_pickaxe"
+        "item": "natural_progression:bone_pickaxe"
     }
 }

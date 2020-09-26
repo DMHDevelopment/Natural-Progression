@@ -6,7 +6,7 @@
             "entries": [
                 {
                     "type": "minecraft:item",
-                    "name": "natural-progression:red_sandstone_pebble"
+                    "name": "natural_progression:red_sandstone_pebble"
                 }
             ],
             "conditions": [

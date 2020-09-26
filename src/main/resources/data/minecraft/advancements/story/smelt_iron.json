@@ -1,5 +1,5 @@
 {
-    "parent": "natural-progression:craft_bone_pick",
+    "parent": "natural_progression:craft_bone_pick",
     "display": {
       "icon": {
         "item": "minecraft:iron_ingot"

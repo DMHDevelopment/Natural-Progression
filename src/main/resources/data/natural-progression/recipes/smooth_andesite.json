@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "natural-progression:cobbled_andesite"
+        "item": "natural_progression:cobbled_andesite"
     },
     "result": "minecraft:andesite",
     "experience": 0.1,

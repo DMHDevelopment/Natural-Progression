@@ -46,7 +46,7 @@
                                     "function": "minecraft:explosion_decay"
                                 }
                             ],
-                            "name": "natural-progression:stone_pebble"
+                            "name": "natural_progression:stone_pebble"
                         }
                     ]
                 }

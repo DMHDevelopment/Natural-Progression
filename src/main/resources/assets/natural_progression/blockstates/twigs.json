@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "natural_progression:block/twigs"
+            },
+            {
+                "model": "natural_progression:block/twigs",
+                "y": 90
+            },
+            {
+                "model": "natural_progression:block/twigs",
+                "y": 180
+            },
+            {
+                "model": "natural_progression:block/twigs",
+                "y": 270
+            }
+        ]
+    }
+}

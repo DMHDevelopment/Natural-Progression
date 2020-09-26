@@ -1,5 +1,5 @@
 {
-    "parent": "natural-progression:craft_planks",
+    "parent": "natural_progression:craft_planks",
     "display": {
         "icon": {
             "item": "minecraft:crafting_table"

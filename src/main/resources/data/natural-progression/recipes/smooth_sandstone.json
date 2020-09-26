@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smelting",
     "ingredient": {
-        "item": "natural-progression:cobbled_sandstone"
+        "item": "natural_progression:cobbled_sandstone"
     },
     "result": "minecraft:sandstone",
     "experience": 0.1,
